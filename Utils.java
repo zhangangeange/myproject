@@ -1,4 +1,4 @@
-package com.taikang.util;
+package com..util;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.StringRedisTemplate;
